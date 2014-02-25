@@ -1,4 +1,0 @@
-repotest
-========
-
-Test repository
