@@ -1,2 +1,2 @@
 teststring=string
-W
+a
