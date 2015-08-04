@@ -1,1 +1,1 @@
-teststring=strings|
+teststring=stringsS
