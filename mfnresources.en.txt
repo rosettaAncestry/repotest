@@ -1,1 +1,1 @@
-teststring=stringsn
+teststring=stringsB
